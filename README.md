@@ -18,7 +18,7 @@ NodeJs sebagai _runtime environment_ untuk menjalankan kode Javascript, dan bisa
 
 **b.	Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!**  <br>
 _Jawaban :_  <br>
-![image](https://github.com/user-attachments/assets/6a189c1e-0147-4793-8702-3cc196cc0505) <br>
+![image](https://github.com/user-attachments/assets/6fab8e3d-a7fe-4a9d-8f44-bd212870c39b)<br>
 Pada gambar diatas, terdapat informasi versi Git 2.47.1, versi vscode 1.96.4, versi nodejs v22.13.1 dan versi npm 10.9.2 yang semuanya sudah terinstall pada device saya.<br>
 
 **2.	Praktikum 2 : Membuat Proyek Pertama React Menggunakan Next.js**  <br>
@@ -63,11 +63,11 @@ _Jawaban :_  <br>
 **c.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!**  <br>
 _Jawaban :_  <br>
 Proses create project :   <br>
-![image](https://github.com/user-attachments/assets/de67787d-4c8d-4a41-a494-a6c50672994d) <br>
+![image](https://github.com/user-attachments/assets/58543ba7-acfc-455b-b865-5212272cf948) <br>
 Running : <br>
-![image](https://github.com/user-attachments/assets/c4178b1b-466f-4441-801d-faec2e845be9) <br>
+![image](https://github.com/user-attachments/assets/346f6400-f779-4907-b3e5-06618d1dcfde) <br>
 Hasil : <br>
-![image](https://github.com/user-attachments/assets/9b83556e-e808-4672-b1b1-4ce7e95e0a74) <br>
+![image](https://github.com/user-attachments/assets/0c1e649c-ce1f-4ea2-b0a0-d252de8004c9) <br>
 
 
 **3.	Praktikum 3 : Menambahkan Komponen React (Button)**  <br>
@@ -75,9 +75,12 @@ Hasil : <br>
 _Jawaban :_  <br>
 
 Create : <br>
-![image](https://github.com/user-attachments/assets/8489d3b7-fb23-4f51-9aa8-b505d92d2387) <br>
-![image](https://github.com/user-attachments/assets/ae2cb53d-557d-4740-b8fb-c3023bcd7a0f) <br>
-![image](https://github.com/user-attachments/assets/0b52ec9a-76b7-4b65-b7be-27ddd3864e86) <br>
+![image](https://github.com/user-attachments/assets/8163e877-e6bc-47d0-a529-0a4c9102a38d)
+ <br>
+![image](https://github.com/user-attachments/assets/a88a1054-2e77-4fb8-a0b1-14d380f238a3)
+ <br>
+![image](https://github.com/user-attachments/assets/23c2135d-80af-4725-87d9-96dc198cd291)
+ <br>
 
 **4.	Praktikum 4 : Menulis Markup dengan JSX  <br>
 a.	Untuk apakah kegunaan sintaks user.imageUrl?**  <br>
@@ -86,9 +89,12 @@ untuk mengakses properti imageUrl pada sebuah objek user  <br>
 
 **b.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!**  <br>
 _Jawaban :_  <br>
-![image](https://github.com/user-attachments/assets/492379d0-bd47-4a3d-989c-7cdb30e8eb2f) <br>
-![image](https://github.com/user-attachments/assets/92b25668-5d47-4ae8-9fd0-dd5dcb61a2f1) <br>
-![image](https://github.com/user-attachments/assets/db1577d7-3894-42e3-895d-8079a9cb982c) <br>
+![image](https://github.com/user-attachments/assets/5c4b8415-127e-488b-98c1-0ab609169b98)
+ <br>
+![image](https://github.com/user-attachments/assets/3dba36c9-aaaf-4615-9d14-641a51593283)
+ <br>
+![image](https://github.com/user-attachments/assets/610d6dbf-1aa8-4648-aaa8-0422d6c079f1)
+ <br>
 
 
 
